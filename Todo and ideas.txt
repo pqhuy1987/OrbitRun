@@ -1,0 +1,11 @@
+todo:
+- Online highscores
+- Positional audio
+- Mac port
+- Neato spawn animation for orbs
+- Target practice: different speed orbs
+
+done:
+- Alternate scoring: being as close as possible to orbs
+- Square hitting game mode
+- Enemies start out still and then accelerate
