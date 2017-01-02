@@ -34,7 +34,7 @@ static NSString *const ORBGameModeDefault = @"orbivoid.gamemode";
         
         SKLabelNode *title = [SKLabelNode labelNodeWithFontNamed:@"Avenir-Black"];
         
-        title.text = @"Orbivoid";
+        title.text = @"BigBang";
         title.fontSize = 70;
         title.position = CGPointMake(CGRectGetMidX(self.frame),
                                        CGRectGetMidY(self.frame));
